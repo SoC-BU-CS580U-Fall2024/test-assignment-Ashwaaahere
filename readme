@@ -1,0 +1,6 @@
+To compile:-
+        gcc hello.c -o hello
+output:
+        .\hello
+Name:- Ashwathaman Satish Kumar 
+B Number:- B01106017
